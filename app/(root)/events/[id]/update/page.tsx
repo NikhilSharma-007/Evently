@@ -33,5 +33,5 @@ const UpdateEvent = async ({ params: { id } }: UpdateEventProps) => {
     </>
   );
 };
-
+//changes
 export default UpdateEvent;
